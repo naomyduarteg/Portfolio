@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=61648b&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=61648b&style=for-the-badge"/>
 </p>
 
 # <h1 align="center"> A physicist diving into the world of data science. Here you can find some of my projects.</h1>
