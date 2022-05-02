@@ -3405,3 +3405,18 @@
 2022-04-23 17:02:16,284:INFO:Checking exceptions
 2022-04-23 17:02:16,285:INFO:Preloading libraries
 2022-04-23 17:02:16,285:INFO:Preparing display monitor
+2022-04-23 17:12:30,803:INFO:Initializing predict_model()
+2022-04-23 17:12:30,803:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x000002BB227C41C0>, probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-04-23 17:12:30,803:INFO:Checking exceptions
+2022-04-23 17:12:30,804:INFO:Preloading libraries
+2022-04-23 17:12:30,804:INFO:Preparing display monitor
+2022-04-23 17:12:35,444:INFO:Initializing predict_model()
+2022-04-23 17:12:35,444:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x000002BB227C41C0>, probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-04-23 17:12:35,444:INFO:Checking exceptions
+2022-04-23 17:12:35,445:INFO:Preloading libraries
+2022-04-23 17:12:35,445:INFO:Preparing display monitor
+2022-04-23 17:14:34,021:INFO:Initializing predict_model()
+2022-04-23 17:14:34,021:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x000002BB227C41C0>, probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-04-23 17:14:34,021:INFO:Checking exceptions
+2022-04-23 17:14:34,022:INFO:Preloading libraries
+2022-04-23 17:14:34,022:INFO:Preparing display monitor
