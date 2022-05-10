@@ -1,5 +1,7 @@
 
 
-# <h1 align="center"> Data science projects.</h1>
+# <h1 align="center"> Data science projects</h1>
+- Churn prediction
+- Heart Disease prediction
 
 
