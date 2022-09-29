@@ -4,4 +4,5 @@
 - Churn prediction
 - Heart Disease prediction
 - ENEM analysis (in pt-br)
+- CRUD REST API with Python and MongoDB
 
