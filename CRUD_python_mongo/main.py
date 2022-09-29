@@ -19,5 +19,5 @@ def shutdown_db_client():
 
 app.include_router(api_router)
 
-if __name__ == '__main__': #isso indica que este programa é um script a ser rodado, não a ser importado ou só uma biblioteca
+if __name__ == '__main__': #indicates that this programm is a script to be run, not imported or just a library
     uvicorn.run("main:app", host='127.0.0.1', port=8000, log_level="info", reload = True)
