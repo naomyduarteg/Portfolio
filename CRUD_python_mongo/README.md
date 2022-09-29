@@ -4,7 +4,8 @@
 
 This project is a simplified CRUD API REST exercise in Python with MongoDB as the database and using FastAPI. Its main
 objective is to create, read, update and delete users, user's addresses and products. The structure of this project is as follows:
-
+<pre>
+<code>
 ├── CRUD_python_mongo
 │   │── env
 │   ├── routes
@@ -22,7 +23,8 @@ objective is to create, read, update and delete users, user's addresses and prod
 │   │           └── users.py
 │   ├── __init__.py
 │   ├── main.py
-
+ </code>
+</pre>
 ## Instructins <a name="instruction"></a>
 1. Clone the folder in the repository:
 
