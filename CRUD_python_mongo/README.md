@@ -61,5 +61,5 @@ uvicorn main:app --reload
 
 You should see the message "Connected to the MongoDB database!" if everything is working. Copy and go to the address that appears on the terminal when the API runs correctly: http://127.0.0.1:8000. At the docs page, http://127.0.0.1:8000/docs, 
 you can test the API. 
-It is also possible to verify the collections and documents on MongoDB Compass by connecting using the ATLAS_URI address at the .env directory. This is whar you should see at your MongoDB Compass Collections:
+It is also possible to verify the collections and documents on MongoDB Compass by connecting using the ATLAS_URI address at the .env directory. This is what you should see at your MongoDB Compass Collections once you create users, addresses and items:
 ![image](https://user-images.githubusercontent.com/73078250/193099896-1ca937e9-41eb-4746-8914-d0d8e87bd38c.png)
